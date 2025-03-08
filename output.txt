@@ -1,0 +1,21 @@
+/home/me/Downloads/project1
+Directory already exists!
+Error! Unrecognized command: sfjlksagjlks
+.. . 
+/home/me/Downloads/project1/test
+/home/me/Downloads/project1/test
+.. . input.txt 
+pwd ; mkdir test ; cd test
+sfjlksagjlks;ls; pwd;
+cd .. ; cd test ; pwd
+cp ../input.txt . ; ls ; cat input.txt
+mv input.txt del.txt ; pwd ; ls
+rm del.txt ; ls
+cd .. ; pwd
+ls/home/me/Downloads/project1/test
+.. . del.txt 
+.. . 
+/home/me/Downloads/project1
+Makefile test2.txt command.c string_parser.c .. pseudo-shell string_parser.o Report_Collection_Template.docx command.h command.o nico pseudo-shell-arm-based valgrindoutput.png . main.o test example-output.txt .vscode string_parser.h test_script.sh output.txt main.c READ.md input.txt 
+End of file
+Bye Bye!
